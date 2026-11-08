@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nikhil-d-crypto.github.io/physics-lab/sitemap.xml

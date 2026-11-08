@@ -1,0 +1,41 @@
+{
+ "id": "./",
+ "name": "Phylab – Physics Lab",
+ "short_name": "Phylab",
+ "description": "Interactive physics lab guides, calculators and record book for Kerala Polytechnic students. Works offline.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0a0f1e",
+ "theme_color": "#4f46e5",
+ "lang": "en",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Instrument trainer",
+   "url": "./#trainer"
+  }
+ ]
+}
